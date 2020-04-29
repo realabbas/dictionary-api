@@ -4,7 +4,7 @@ Restful API developed using Serverless Framework , AWS Lambda Functions, Cloudfr
 
 ## Endpoint
 
-`https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/dictionary?word=${search_word}&api=realabbas`
+`https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/dictionary?word=${search_word}&apikey=realabbas`
 
 ### Response
 

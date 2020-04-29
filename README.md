@@ -1,4 +1,4 @@
-# 🚀 Serverless Framework and AWS Lambda Functions
+# 🚀 Dictionary API built using Serverless Framework and AWS Lambda Functions
 
 Restful API developed using Serverless Framework , AWS Lambda Functions, Cloudfront, Serverless Dashboard for monitoring and Dictionary Data
 

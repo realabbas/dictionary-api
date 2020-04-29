@@ -1,7 +1,7 @@
 "use strict";
 
 const apikey = require("./credentials/index").key;
-const data = require("./dictionary.json");
+const data = require("./data/dictionary.json");
 
 module.exports.dictionary = async (event) => {
   let word = event.queryStringParameters.word;
@@ -27,7 +27,4 @@ module.exports.dictionary = async (event) => {
       2
     ),
   };
-
-  // Use this code if you don't use the http event with the LAMBDA-PROXY integration
-  // return { message: 'Go Serverless v1.0! Your function executed successfully!', event };
 };

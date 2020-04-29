@@ -8,4 +8,4 @@ Restful API developed using Serverless Framework , AWS Lambda Functions, Cloudfr
 
 ### Response
 
-
+![FREE DICTIONARY API ENDPOINT RESPONSE](https://raw.githubusercontent.com/realabbas/dictionary-api/master/demo/response.png)

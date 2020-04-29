@@ -10,7 +10,7 @@ module.exports.dictionary = async (event) => {
     (dict) => word.toLowerCase() === dict.word.toLowerCase()
   );
 
-  let api = event.queryStringParameters.api;
+  let api = event.queryStringParameters.apikey;
 
   return {
     statusCode: 200,

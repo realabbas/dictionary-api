@@ -7,7 +7,7 @@ Restful API developed using Serverless Framework , AWS Lambda Functions, Cloudfr
 - For WORD- MEANING API Endpoint 
 `https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/dictionary?word=cold`
 
-` For Does this Word Exist API Endpoint 
+- For Does this Word Exist API Endpoint 
 `https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/wordExist?word=cold`
 
 

@@ -4,12 +4,15 @@ Restful API developed using Serverless Framework , AWS Lambda Functions, Cloudfr
 
 ## Endpoint
 
-`https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/dictionary?word=cold&apikey=realabbas`
+- For WORD- MEANING API Endpoint 
+`https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/dictionary?word=cold`
 
-Send the query in the request like ``` dictionary?word=YOUR_SEARCH&apikey=realabbas ```
+` For Does this Word Exist API Endpoint 
+`https://b8qalj4ph8.execute-api.ap-south-1.amazonaws.com/production/wordExist?word=cold`
 
+
+Send the query in the request like `dictionary?word=YOUR_SEARCH` or `wordExist?word=YOUR_SEARCH` 
 
 ### Response
 
 ![FREE DICTIONARY API ENDPOINT RESPONSE](https://raw.githubusercontent.com/realabbas/dictionary-api/master/demo/response.png)
-
